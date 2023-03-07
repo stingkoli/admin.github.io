@@ -1,0 +1,1 @@
+﻿ALTER TABLE Eyetreat DROP COLUMN id;
