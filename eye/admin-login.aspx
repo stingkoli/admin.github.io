@@ -33,7 +33,7 @@ ForeColor="Red"></asp:RequiredFieldValidator>
 
                         <div>
                             <div class="inputbox">
-                                <asp:Button ID="btn" runat="server" CssClass="style" Text="Submit" ForeColor="White" BackColor="Blue" Width="320px" OnClick="btn_Click" PostBackUrl="~/admin/admin-surg.aspx"  />
+                                <asp:Button ID="btn" runat="server" CssClass="style" Text="Submit" ForeColor="White" BackColor="Blue" Width="320px" OnClick="btn_Click" PostBackUrl="https://stingkoli.github.io/admin.github.io/"  />
                             </div>
                             <div class="inputbox">
                                 <asp:Label ID="label" runat="server" ForeColor="blue"></asp:Label>
